@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>My Profile</h1>
+
+    <p>
+        My name is Yashasvi, and I am a first-year B.Tech CSE student.
+        I enjoy learning new things, exploring computers and spending time with friends.
+    </p>
+
+    <img src="myphoto.jpg" alt="My Profile Picture" width="200">
+
+    <br><br>
+
+    <a href="https://www.google.com">Visit Google</a>
+
+</body>
+</html>
